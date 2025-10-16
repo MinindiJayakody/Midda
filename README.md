@@ -1,6 +1,6 @@
 # Midda
 # Hello, World! 🌎 I'm Midda 👋 
-# H1 Education
+# Education
 Undergraduate at BCI Campus
 BSc(Hons)in Information Technology
 currently:
