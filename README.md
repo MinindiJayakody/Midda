@@ -1,5 +1,5 @@
-# Midda
-# Hello, World! 🌎 I'm Midda 👋 
+# Minindi
+# Hello, World! 🌎 I'm Minindi 👋 
 # Education
 Undergraduate at BCI Campus
 BSc(Hons)in Information Technology
