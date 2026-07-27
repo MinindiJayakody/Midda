@@ -1,11 +1,10 @@
 # Hello, World! 🌎 I'm Minindi 👋 
-# 👋 Hello, World! I'm Minindi
 
 ### 🎓 About Me
 - 🚀 Final Year IT Undergraduate at BCI Campus
 - 💻 Pursuing BSc (Hons) in Information Technology
-- 📚 Currently leveling up my skills in [Project Management]
-- ⚡ Fun fact: [Funny]
+- 📚 Currently leveling up my skills in Project Management
+- ⚡ Fun fact: Coffee loop
 
 ### 🛠️ Tech Stack & Tools
 <!-- Use badges from shields.io or simple bullet points -->
