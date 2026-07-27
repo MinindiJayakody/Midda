@@ -12,7 +12,7 @@
 - **Frameworks/Tools:** Git, GitHub, VS Code
 
 ### 📈 GitHub Stats
-![Minindi's GitHub Stats](https://vercel.app)
+![Minindi's GitHub Stats](MinindiJayakody)
 
 ### 🌐 Connect with Me
 [![LinkedIn](https://shields.io)](www.linkedin.com/in/minindi-wimandika-35b7462a1)
